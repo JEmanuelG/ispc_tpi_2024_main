@@ -1,0 +1,19 @@
+Análisis del Problema: E.P.S:
+
+> ENTRADA: edad , residencia , estudios;
+
+> SALIDA:
+•	Cumple con los requisitos para el puesto. 
+•	No cumple con los requisitos para el puesto.
+
+> PROCESO: Mediante la variable edad_: 1) EDAD: definir edad en años cumplidos del aspirante. (Igual o Mayor a 18 años).
+
+Mediante la variable residencia_: 2) Residencia: definir seleccionando “1” o “0”, si el aspirante es o no, respectivamente, de la Ciudad de Córdoba.
+
+Mediante la variable estudios_: 3) Estudios: definir seleccionando “1” o “0”, si el aspirante tiene o no tiene, respectivamente, estudios secundarios completos.
+
+•	Si Cumple con los 3 requisitos: 1) " =+ 18 " --> y  2) “ 1 ” --> y  3) “ 1 ”
+	¡Felicidades! Cumple con los requisitos para el puesto.
+
+•	Si No Cumple con alguno de los 3 requisitos: 
+	Lo sentimos, No cumple con los requisitos para el puesto.
